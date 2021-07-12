@@ -46,7 +46,7 @@ def _start(client, message):
                            InlineKeyboardButton("Support Group", url="https://t.me/onioneers")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/ridoxin")
+                           InlineKeyboardButton("🧑‍💻Developer🧑‍💻", url="https://t.me/ridoxin")
                      ]
                  ]
              ),
@@ -63,7 +63,7 @@ def _start(client, message):
                     InlineKeyboardButton("Support Group", url="https://t.me/onioneers")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/ridoxin")
+                    InlineKeyboardButton("🧑‍💻Developer🧑‍💻", url="https://t.me/ridoxin")
                 ]
             ]
         ),
@@ -86,7 +86,7 @@ def _source_code(client, message):
                     InlineKeyboardButton("Support Group", url="https://t.me/onioneers")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/ridoxin")
+                    InlineKeyboardButton("🧑‍💻Developer🧑‍💻", url="https://t.me/ridoxin")
                 ]
             ]
         ),
